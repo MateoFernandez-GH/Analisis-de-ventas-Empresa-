@@ -14,7 +14,8 @@ Analizar la información de ventas y obtener métricas clave que reflejen el ren
 - Evolución de ventas por mes
 
 ## 🧩 Estructura del proyecto
-analisis-ventas-pequena-empresa/
+```analisis-ventas-pequena-empresa/
+
 │
 ├── datos/
 │   └── dataset.csv
@@ -23,12 +24,10 @@ analisis-ventas-pequena-empresa/
 ├── resultados/
 │   └── grafico generado
 ├── README.md
-└── .gitignore
+└── .gitignore```
 
 ## ⚙️ Herramientas utilizadas
 - Python 3 (Google Colab)
-- Pandas para manipulación de datos
-- Matplotlib / Seaborn para visualización
 - Git y GitHub para control de versiones
 - Jira para gestión de tareas y trazabilidad
 
