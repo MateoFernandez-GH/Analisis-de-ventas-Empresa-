@@ -24,7 +24,8 @@ Analizar la información de ventas y obtener métricas clave que reflejen el ren
 ├── resultados/
 │   └── grafico generado
 ├── README.md
-└── .gitignore```
+└── .gitignore
+```
 
 ## ⚙️ Herramientas utilizadas
 - Python 3 (Google Colab)
